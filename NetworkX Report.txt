@@ -1,0 +1,102 @@
+gplus:
+
+Name: 
+Type: DiGraph
+Number of nodes: 1000
+Number of edges: 101737
+Average in degree: 101.7370
+Average out degree: 101.7370
+Name:
+Type: DiGraph
+Number of nodes: 1000
+Number of edges: 32058
+Average in degree:  32.0580
+Average out degree:  32.0580
+Name: 
+Type: DiGraph
+Number of nodes: 1000
+Number of edges: 9075
+Average in degree:   9.0750
+Average out degree:   9.0750
+
+
+gephi results:
+Average Clustering Coefficient: 0.267
+
+reciprocity: 0.2834563629751221 + 0.58818391665107 + 0.4308539944903581
+avg: 0.4341647580388501
+
+assortativity: 
+-0.14170952014515537 -0.062137355648605515 + 0.014172584011668026
+avg: -0.06322476392736429
+
+clustering:
+(0.372609697038667 + 0.2958048204743533 + 0.27962122491001)/3
+avg: 0.3160119141410101
+
+modularity:
+(0.308 + 0.335 + 0.594)/3
+0.4123
+
+diameter:
+(7 + 10 + 14)/3
+= 10.33
+
+path length:
+(2.359 + 2.571 + 4.918)/3
+=3.2827
+
+communities:
+(7 + 72 + 152)/3
+= 77.0
+____________________________________
+
+
+twitter:
+
+Name: 
+Type: DiGraph
+Number of nodes: 1000
+Number of edges: 21783
+Average in degree:  21.7830
+Average out degree:  21.7830
+Name: 
+Type: DiGraph
+Number of nodes: 1000
+Number of edges: 17518
+Average in degree:  17.5180
+Average out degree:  17.5180
+Name: 
+Type: DiGraph
+Number of nodes: 1000
+Number of edges: 12427
+Average in degree:  12.4270
+Average out degree:  12.4270
+
+
+reciprocity: 0.5668640683101501 + 0.5376184495947026 + 0.6188138730184276
+avg: 0.5744321303077601
+
+assortativity:
+0.19634890963252885 - 0.03625308923059949 + 0.1017578831041906
+avg: 0.0872845678353733
+
+clustering:
+0.4349088962095986 + 0.4156033850854591 + 0.36201125994497846
+avg: 0.40417451374667873
+
+modularity
+(0.725 + 0.751 + 0.740)/3
+avg:0.7387
+
+
+diameter:
+(13+11+15)/3 
+= 13
+path length: 
+(4.64476+4.333+ 4.511)/3
+= 4.4963
+
+communities:
+(15 + 44 + 27)/3
+=28.667
